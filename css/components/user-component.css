@@ -44,3 +44,11 @@
   margin-bottom: 10px;
   display: block;
 }
+.user-component__subtitle-box {
+  display: flex;
+  flex-direction: inherit;
+  align-items: baseline;
+}
+.user-component__subtitle-box i {
+  margin-left: 5px;
+}
